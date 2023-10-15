@@ -1,0 +1,14 @@
+black==23.9.1
+certifi==2023.7.22
+charset-normalizer==3.3.0
+click==8.1.7
+idna==3.4
+mypy-extensions==1.0.0
+packaging==23.2
+paho-mqtt==1.6.1
+pathspec==0.11.2
+platformdirs==3.10.0
+requests==2.31.0
+tomli==2.0.1
+typing_extensions==4.8.0
+urllib3==2.0.5
