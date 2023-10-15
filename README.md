@@ -7,6 +7,9 @@ Note, this tool is powered through the folks over at [Aurora Watch](https://auro
 ## Usage
 
 ```python3
+➜ virtualenv env
+➜ source env/bin/activate
+➜ python3 -m pip install -r requirements.txt
 ➜ python3 cli.py --mqtt_topic <topic name>
 ```
 
